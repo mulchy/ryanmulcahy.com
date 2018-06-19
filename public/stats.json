@@ -1,0 +1,74 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-b3dcf3847ffa72a6f117.js",
+      "component---src-pages-index-js-b3dcf3847ffa72a6f117.js.map"
+    ],
+    "path---tech": [
+      "path---tech-a0e39f21c11f6a62c5ab.js",
+      "path---tech-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----49e571dbe6af4027c84c.js",
+      "path----49e571dbe6af4027c84c.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-d108edceac1770fa73da.js",
+      "component---src-pages-contact-js-d108edceac1770fa73da.js.map"
+    ],
+    "component---src-pages-tech-js": [
+      "component---src-pages-tech-js-edc08a174d2251c821b1.js",
+      "component---src-pages-tech-js-edc08a174d2251c821b1.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-274187fc2cf7df653c13.js",
+      "component---src-layouts-index-js-274187fc2cf7df653c13.js.map"
+    ],
+    "path---philosophy": [
+      "path---philosophy-a0e39f21c11f6a62c5ab.js",
+      "path---philosophy-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-resume-js": [
+      "component---src-pages-resume-js-f98c40de9e3b3624c712.js",
+      "component---src-pages-resume-js-f98c40de9e3b3624c712.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-afb5782224ac01f1fa03.js",
+      "commons-afb5782224ac01f1fa03.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-philosophy-js": [
+      "component---src-pages-philosophy-js-4e553f1a10599abf28c5.js",
+      "component---src-pages-philosophy-js-4e553f1a10599abf28c5.js.map"
+    ],
+    "path---resume": [
+      "path---resume-a0e39f21c11f6a62c5ab.js",
+      "path---resume-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-504687a237d54a1ed654.js",
+      "build-js-styles.css",
+      "app-504687a237d54a1ed654.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

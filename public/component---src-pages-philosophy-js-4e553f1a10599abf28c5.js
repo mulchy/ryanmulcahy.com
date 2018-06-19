@@ -1,0 +1,2 @@
+webpackJsonp([0xb6eef032af7f],{202:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var f=u(2),l=n(f);t.default=function(){return l.default.createElement("h1",null,"Philosophy")},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-philosophy-js-4e553f1a10599abf28c5.js.map

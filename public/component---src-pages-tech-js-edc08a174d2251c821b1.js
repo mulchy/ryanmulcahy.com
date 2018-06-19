@@ -1,0 +1,2 @@
+webpackJsonp([11190768931e4],{204:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(2),o=n(l);t.default=function(){return o.default.createElement("h1",null,"Technology")},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-tech-js-edc08a174d2251c821b1.js.map
